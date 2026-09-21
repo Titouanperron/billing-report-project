@@ -95,3 +95,6 @@ PYTHONPATH=src ./.venv/bin/python -m billing_app.report
 ```bash
 pytest
 ```
+## Project overview
+
+This is a billing report application built with a `src/` layout, tests, and a `.env`-based configuration for local development.
