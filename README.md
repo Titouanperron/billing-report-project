@@ -100,3 +100,5 @@ pytest
 This is a billing report application built with a `src/` layout, tests, and a `.env`-based configuration for local development.
 #dependency
 some dependencies added
+#local guide
+to run the local version check above
